@@ -1,0 +1,19 @@
+body {
+    background-image: url(awan.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    right: 0;
+    position: absolute;
+}
+
+.content {
+    background-color: white;
+    width: 50%;
+    position: relative;
+    z-index: 9999;
+    text-align: right;
+    float: right;
+}
